@@ -22,3 +22,30 @@ Python scripts for  Basic Rasperry Pi Embedded programs
 - OLED I2C module
 - Servo motor
 - LDR Sensor
+
+## Pictures
+- Picture of buzzer with pi
+
+<img src='https://github.com/venkatramnank/RaspberryPiScripts/blob/main/Pics/pi_buzzer.PNG'>
+
+-Picture of Servo motor with Pi
+
+<img src='https://github.com/venkatramnank/RaspberryPiScripts/blob/main/Pics/servo_pi.PNG'>
+
+-Picture of LED on/off on OLED
+
+<img src='https://github.com/venkatramnank/RaspberryPiScripts/blob/main/Pics/led_pic_oled.PNG'>
+
+-Picture of Arnold on OLED
+
+<img src='https://github.com/venkatramnank/RaspberryPiScripts/blob/main/Pics/pic_oled_pi.PNG'>
+
+-Picture of LDR with buzzer
+
+<img src='https://github.com/venkatramnank/RaspberryPiScripts/blob/main/Pics/LDR_pi.PNG'>
+
+## Initiative
+These scripts were written for learning Rapberry pi and for Computer Organiztion lab purposes.
+
+## Contact
+For doubts and contributions please contact venkatramnank@gmail.com
