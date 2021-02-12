@@ -44,6 +44,9 @@ Python scripts for  Basic Rasperry Pi Embedded programs
 
 <img src='https://github.com/venkatramnank/RaspberryPiScripts/blob/main/Pics/LDR_pi.PNG'>
 
+## Video Resources
+To see all the above code in action , please see the video sections in each folder of  https://drive.google.com/drive/folders/1DNVRarkM_aobMuj7zHPLPFmR98BRv9_4?usp=sharing
+
 ## Initiative
 These scripts were written for learning Rapberry pi and for Computer Organiztion lab purposes.
 
